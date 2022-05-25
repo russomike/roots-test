@@ -1,0 +1,17 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+body {
+    background: rgb(255, 227, 241);
+    padding: 5vw;
+}
+.main {
+    padding: 1em;
+    border: 10px dashed green;
+}
+.entry-summary {
+    font: 72px "Papyrus";
+    color: #f00;
+}
