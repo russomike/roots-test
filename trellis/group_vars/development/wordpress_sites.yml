@@ -2,13 +2,13 @@
 # Documentation: https://docs.roots.io/trellis/master/wordpress-sites/
 
 wordpress_sites:
-  rebel-test.test:
+  roots-test.test:
     site_hosts:
-    - canonical: rebel-test.test
+    - canonical: roots-test.test
       redirects:
-      - www.rebel-test.test
+      - www.roots-test.test
     local_path: ../site
-    admin_email: admin@rebel-test.test
+    admin_email: admin@roots-test.test
     multisite:
       enabled: false
     ssl:

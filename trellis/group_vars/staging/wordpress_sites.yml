@@ -2,11 +2,11 @@
 # Documentation: https://docs.roots.io/trellis/master/wordpress-sites/
 
 wordpress_sites:
-  rebel-test.test:
+  roots-test.test:
     site_hosts:
-    - canonical: rebel-test.test
+    - canonical: roots-test.test
       redirects:
-      - www.rebel-test.test
+      - www.roots-test.test
     local_path: ../site
     branch: master
     repo: git@github.com:example/example.com.git

@@ -1,17 +1,17 @@
 # Created by trellis-cli v1.7.0
 # Documentation: https://docs.roots.io/trellis/master/vault/
 
-vault_mysql_root_password: hFOGlt4EHPGQTeAPp3nZRF9IWJ21bgevoWaS25ArYIUckTLm6xrqeYQ16TBA6x2F
+vault_mysql_root_password: 8EfCQhkEVpjzymaWVqdVTs5VVMysLhFogwIgTpG0UtyQsyiIa3DQPhSCbcGsLTJ5
 vault_wordpress_sites:
-  rebel-test.test:
-    admin_password: FncpaUEV7YBSl5NZPpWtrMjmkMkCqUTJJmCD0Tzmc6uoI7IMbdRVPhqMrgUJbbjw
+  roots-test.test:
+    admin_password: Um6Bha6eShoKyYvcxkCXPGGtpwX1lJpvvLjCtvqEcmcBcc9EYUhss3rPDk4uN7fv
     env:
-      db_password: zCvVn1kwIVLKfdVWnnhdSmEwTXgdmhx5ETdDr0g4g7yf9WABVLd2sKrNgQigHG0W
-      auth_key: T4l7hQsjY73WhLjeh1YPSt7NSJYRNthHFrdpKahBjKY7Qu3s3fPTFCzHDsdiFW6y
-      secure_auth_key: ccdnuDoGDRQ8kkh8Q6Ngxdd7QwBfo09XPK1R5yJMW6Ra4cmMpRsC83lp6Upc1liU
-      logged_in_key: zpHJyb40uW8iFt1VGKn5OCkOVh4W2xLUyfljdGlb6O7gCgkGskT1zs0pyda3e9yJ
-      nonce_key: o6daf2ibmtxAHZhzrMeMjZwkyrxuJcLdbXdNC62pJIWr3ugheFfzqLcrbJfE6fWD
-      auth_salt: Ro5hOAK7TlsvY1GKI62ucyhePPi5kX7KYftsilxbmtlk5NySIxKRFHdypoORpwqe
-      secure_auth_salt: 7zdzQjXmnPdJhnHsRmse2lMM9xtlR75SXsK9Ab0lTRc1qjvqvFhknW5BNaIltc8A
-      logged_in_salt: tQfC3YoROfZgbaUXpxgQbyLzFk1aEnC11ZScFtGVz2mdLb2w7whz8ks1DEEpRRoq
-      nonce_salt: mtCIrdM7th3o810CQbwnY5sC56Nx2vFchGfeBrAZbuJTbWIPlj5YhZORdk0BqmRw
+      db_password: 44paojxV3gyIrFwItpHAtXXLVk1lkbHQTV2bRTMrfFKFhqJUeXZXpszVcf6K7Qeq
+      auth_key: nIS6WFUDcrILbeUyQAclg3hxMuVDbt2qxAAe6zTWShdYi2dGvcnUcYBfi7AFtwK5
+      secure_auth_key: rfhEn2VPUGH7MMcNHQx71if3mg4FvVrXbEQxmPso0qPOcHVdrfpA2kAeRcWcsquF
+      logged_in_key: t36CdJXnqGanmhoWXKWgmtS4PQLKR6lyE54Izf5qEq2GWPPZmS4NceogiEZCJ3LZ
+      nonce_key: jgJrRxc79zNXLo0VMWs11fEnVYRCkn86ZHSqUuR8jvlh12Y4HSRjRjkB3vBJba3y
+      auth_salt: AoP8zH8woS6pBwxhs78YSYwzyC8fw2zY8niHsW7CK4b71jryrdk1LbTDN8B1bg8X
+      secure_auth_salt: XQCBhqvhSnaNMNc9SclazKNpSnjBcCB0RKmywVXijnNip4jbgKK2j0pUL5b0ASUN
+      logged_in_salt: VfOdWtgS6yjqiEmzP8RPXcCkBkcwtLYFX2fEB6yZgccjlQj6nvi9Evlt7ggNMq9F
+      nonce_salt: JuERAkh8JtoHu52jR7rniIZO7AnksFGjGIepR0Kevao8LlyP9E8NbrJbxaValLN5

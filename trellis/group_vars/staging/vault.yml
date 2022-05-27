@@ -1,21 +1,21 @@
 # Created by trellis-cli v1.7.0
 # Documentation: https://docs.roots.io/trellis/master/vault/
 
-vault_mysql_root_password: 6OFMe2DPuFPoPx9d1JaRQuuPp03SYtmAwqbCy0f66cKlTxm0LHQD9bmjFzAHUeBt
+vault_mysql_root_password: wvT5gcdCybMPHYYgsI1Tc6uHvsSHVu0fKBcYumBvjk3JLOaKV5IMnbmhkbRABj4V
 vault_users:
 - name: '{{ admin_user }}'
-  password: zG6zQgYYsanURKFqwfJs3gF0V8ZdhLXJBd3fSaLXQgaRHMUUrPaeNlRY7rft4Iej
-  salt: a7auBin3U8Bvw7IjvmYRjL6rjagxfHvAbtl7cagturhGcr1jwC14WyhT8wgrnPDs
+  password: 07vpII58TI1vrxAhu6Djk5M81jZfL5FbdjvPFrqjLhoobHLFQBDrIL0m9hrGgubg
+  salt: 9R0RKtxJEOF05MnRjGFdiLFgyty7aFcP3qzgZiCHS5YKdi9WzHbTudDBnuKU4LFH
 vault_wordpress_sites:
-  rebel-test.test:
-    admin_password: ZCbZwd3aINPQfcmKOjJL9aTFGHPYaDGDgxTY9GzoiRcW84ykMol17Ep1HHm0rRlj
+  roots-test.test:
+    admin_password: NhmeOknpyUEr6MIt0IObeT6umbBB11rrjGxQdDH0tv4HRtidQwknJP6ccyQoaLbB
     env:
-      db_password: NEPhrJ9gX4YfGAulckyPT2yPMf1hRMhiOCQ0XSCtdwNBqC3YHEoiMejFgIu3frJ9
-      auth_key: j9IxEsGxYUKpeuxCed831ArlhCu58Kk9Hfskv0Q7SXvI2VBCuEgkF8tdX0Vmabc8
-      secure_auth_key: Eyw0uZaPjQV05VVaSN2tRdAS8ZbwWER9wf8t5q3Bb1veT1DQUbLPfmiRsDfsDZfq
-      logged_in_key: YBqbKPgtUd4acip8UahwJ4hUSRdb4skyogwNZ0uNt16lDh1GzknaVeesJcIRWPQr
-      nonce_key: sWgea1oJjwehPHhWnuJDjUPy3AvV9g6aTUlUlFOpA4Yvmpfbcz3jeLSO1hXxZoLs
-      auth_salt: NynB4goarGOJtSwJskElCv9nvtLmqkcrI6VK3eNb4MM5oRYBzLTb1MUCPzios0ih
-      secure_auth_salt: hGj8h2DtiQycn4i9d3I4tz0TnDuxvii3sjXBE9T3qdunSL7Jwi1311SbnC0haY6l
-      logged_in_salt: TVgu5xKjeilYm5dXtrfuzPVkzYCAUVzCwziuI0QMkmM1wrZSgPxVX1yvN1vJ6MBM
-      nonce_salt: JsFR9e7xtGtxlLuIqJNkMMddlwrbPhTlrKq4T52mjfpKDPWUjpFkYPtoMJUHZ2ul
+      db_password: k3g3nfi3WRC2ebcpe9RgNRhc7cNI7kqajG6LwiWGhhGlEjm2H7AuznK0gSh8ujy9
+      auth_key: bAfXsZHEBV23FSnbYfX1N7Vg43yjF2gEZsB0xrvEcjjuD5C94ySQJsxHsfHT3X1k
+      secure_auth_key: SQWYOLMFHssYVIF7TWa0SwDV3IFCTxTOqjcFz3duyglKgZZUcX2xU4aTZsp7Kp9b
+      logged_in_key: I0AdtZFxLLQcClwN0WmMF6ABXuxGiMi6ieCcl4YLJ7YDROEf0EkgKfaQaTBkbe08
+      nonce_key: oSbfTs6GRGa8vOMoiDJKfbFaIIIpDP2eZ3b3O2WgTmLtCp4BCT91RbIrPmf9ZmtB
+      auth_salt: Y3jz8H4OULGB96QZdPOedN6DtKnV04x8w2dBiTObs3LeeIyUfcCKER0S8IOHjNWF
+      secure_auth_salt: csfqmnaiHrJbEUiWPlvsXSAJkOBGPQUtkhphhPLNRpXlZjxx4OKcMkjhG4V0XGF0
+      logged_in_salt: z6zHVPaJqAMWQJNz4DndBAA90penQBhbPaZOn2wCrckHsOJiVnyidxfwe3l4xjIJ
+      nonce_salt: oq5Y1apyCzQuVMSHagI0cs6eJn3Kj7i25NIMFq2KJfuXGKzxnxSz48J3uyBOPMhR
