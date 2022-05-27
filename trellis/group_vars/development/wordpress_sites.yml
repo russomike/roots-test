@@ -2,7 +2,7 @@
 # Documentation: https://docs.roots.io/trellis/master/wordpress-sites/
 
 wordpress_sites:
-  rebel-test.local:
+  rebel-test.test:
     site_hosts:
     - canonical: rebel-test.test
       redirects:
