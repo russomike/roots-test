@@ -31,8 +31,8 @@
     }
   ],
   "require": {
-    "php": ">=8.1.0",
-    "composer/installers": "^1.12 || ^2.0",
+    "php": ">=7.4",
+    "composer/installers": "^2.1",
     "vlucas/phpdotenv": "^5.4",
     "oscarotero/env": "^2.1",
     "roots/bedrock-autoloader": "^1.0",
@@ -41,8 +41,8 @@
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.1.0",
     "wpackagist-theme/twentytwentytwo": "^1.2",
-    "wpackagist-plugin/disable-comments": "^2.3",
-    "roots/acorn": "^2.0"
+    "roots/acorn": "^2.0",
+    "wpackagist-plugin/disable-comments": "^2.3"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.6.2",
