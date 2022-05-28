@@ -42,7 +42,6 @@
     "roots/wp-password-bcrypt": "1.1.0",
     "wpackagist-theme/twentytwentytwo": "^1.2",
     "wpackagist-plugin/disable-comments": "^2.3",
-    "yoast/wordpress-seo": "^18.9",
     "roots/acorn": "^2.0"
   },
   "require-dev": {
